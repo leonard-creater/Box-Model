@@ -1,0 +1,29 @@
+<html>
+<head>
+<style>
+h2{
+    height:60px ;
+    width: 200px;
+    margin:5px;
+    border:5px solid cornsilk;
+    background-color:beige;
+    padding: 15px;
+}
+#sit{
+    float:left;
+}
+#sits{
+    float:right;
+}
+
+</style>
+</head>
+<body>
+
+    <h2>Parents Should Help Their Children Study</h2>
+
+
+    <img id="sit" src="Capture.PNG" height="120" width="120">
+    <img id="sits" src="Capture.PNG" height="120" width="120">
+</body>
+</html>
